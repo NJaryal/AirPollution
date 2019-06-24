@@ -1,8 +1,7 @@
 {
-    "name": "Breathe",
-    "short_name": "Breathe",
-    "icons": [
-        {
+    "name": "airpollution",
+    "short_name": "airpollution",
+    "icons": [{
             "src": "/resources/images/android-chrome-192x192.png?v=A0ieifo",
             "sizes": "192x192",
             "type": "image/png"
