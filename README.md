@@ -6,8 +6,6 @@
 - Axios for API calls
 
 
-Site is live at: https://breathe.netlify.com
-
 ## Development
 The build process is written on Gulp. Babel is used to use ES6 features, along with SASS pre-processor for CSS.
 
