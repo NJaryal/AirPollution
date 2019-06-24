@@ -8,6 +8,7 @@
         "babel-core": "^6.26.3",
         "babel-preset-es2015": "^6.24.1",
         "babel-preset-minify": "^0.4.3",
+        "gh-pages": "^2.0.1",
         "gulp": "^3.9.1",
         "gulp-babel": "^7.0.1",
         "gulp-concat": "^2.6.1",
@@ -15,7 +16,7 @@
         "gulp-sass": "^4.0.2"
     },
     "scripts": {
-        "build": "gulp",
+        "build": "gulp && gh-pages -d /dist/",
         "dev": "node index",
         "start": "npm run dev"
     },
